@@ -1,4 +1,4 @@
-# NYC_YellowTaxi_DataAnalysis_Team8
+# NYC_YellowTaxi_DataAnalysis_Team7
 
 * Pipeline folder - Contains deployment details (downloading, cleaning, handling missing data and uploading to Amazon S3)
 * Web Application Folder - Contains the application for Demo 
